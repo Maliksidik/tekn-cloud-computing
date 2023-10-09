@@ -2,7 +2,7 @@ Menjadi Upstream
 
 ![bagian 1](https://github.com/Maliksidik/tekn-cloud-computing/blob/0f28a35b843b0c513c84fbd6bffd1fd43af675e8/minggu-01/Upstream/Kontributor%20%201.jpeg)
 
-![bagian 2](https://github.com/Maliksidik/tekn-cloud-computing/blob/0f28a35b843b0c513c84fbd6bffd1fd43af675e8/minggu-01/Upstream/Kontributor%20%202.jpeg)
+![bagian 2](https://github.com/Maliksidik/tekn-cloud-computing/blob/fdea3316fad97d33366881033b1766af5840d09f/minggu-01/Upstream/Kontributor%202.jpeg)
 
 ![bagian 3](https://github.com/Maliksidik/tekn-cloud-computing/blob/f2fad3fa09eb151ffedade5346ae3c7dc0e809cf/minggu-01/Upstream/Kontributor%203.jpeg)
 
